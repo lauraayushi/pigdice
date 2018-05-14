@@ -1,6 +1,5 @@
 ## Pig dice
-####Pig dice is a project that enables a player to roll a dice and get a result for the game during playing , created on 14-04-2018
-#### The project was created by**Laura Ayushi**
+#### The project was created by **Laura Ayushi**
 ## Description
 Pig dice is a project that enables a player to roll a dice and get a result for the game during playing the game.When the dice is rolled,it gives results up to 6 points whereby when the dice is 1 ,results for the player are not recorded.When the results of a certain player reaches a hundred,the winner is announced and the game is over.
 ## Setup/Installation Requirements
@@ -13,7 +12,7 @@ Pig dice is a project that enables a player to roll a dice and get a result for 
 There are no bugs in the system which I am aware of.
 ## Technologies Used
 I have used HTML,CSS and Javascript to make the project.
-## Link to live site
+## Link to live site https://lauraayushi.github.io/pigdice/
 
 ### License
 MIT License

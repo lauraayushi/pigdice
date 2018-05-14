@@ -17,3 +17,4 @@ if(rollDice === 1) {
 }
 return rollDice;
 // during the next turns of the pigdice game
+var secondTurn
